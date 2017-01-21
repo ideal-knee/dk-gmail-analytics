@@ -13,7 +13,7 @@ Usage
     * Maybe using [this](https://github.com/mikeflynn/gmail-clj/blob/master/resources/index.html) or
       [this](https://developers.google.com/gmail/api/auth/about-auth)
 
-3. Save your auth stuff in an EDN file
+  3. Save your auth stuff in an EDN file
 
          {:client-id "<client-id>"
           :client-secret "<client-secret>"
